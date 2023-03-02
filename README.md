@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-flexbox-bem-iTLvsQOljy)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-flexbox-bem-6Ritlri1eY)
 - Live Site URL: [GitHub Page](https://akiraz14.github.io/order-summary-component/)
 
 ## My process
